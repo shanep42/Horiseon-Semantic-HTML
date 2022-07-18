@@ -1,3 +1,9 @@
+/* TODO:
+    Condense superfluouos code in places where classes share identical features
+    Add descriptive comments
+    Experiment: Possible with current knowledge to make layout more responsive to viewport size?
+*/
+
 * {
     box-sizing: border-box;
     padding: 0;
