@@ -14,7 +14,7 @@ Additionally, the inclusion of an id attribute on one article in the .content se
 
 The CSS was well laid out but inefficient in some small ways, such as repeating code often for different classes with identical stylings. Collapsing these into single blocks of code, along with the inclusion of comments to indicate what pieces of code apply to which pieces of the page (when this was not self-evident), improved readablility without altering the layout or styling of the page:
 
-![The new page's css output is unchanged, but on things are much smoother under the CSS hood](./Assets/images/updated-and-still-working.jpg)
+![The new page's css output is unchanged, but on things are much smoother under the CSS hood](assets/images/updated-and-still-working.jpg)
 
 ### Future Developments
 
