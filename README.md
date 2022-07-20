@@ -1,4 +1,4 @@
-# 01 HORISEON - Main Page Updated for Accessibility and Visibility
+# HORISEON - Main Page Updated for Accessibility and Visibility
 
 ## Purpose
 
