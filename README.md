@@ -16,6 +16,10 @@ The CSS was well laid out but inefficient in some small ways, such as repeating 
 
 ![The new page's css output is unchanged, but on things are much smoother under the CSS hood](assets/images/updated-and-still-working.jpg)
 
+### Deployed Site
+
+https://shanep42.github.io/Horiseon-Semantic-HTML/
+
 ### Future Developments
 
 Currently, the page is still not very responsive to changes in screen size, and can look messy at small sizes. With more advanced CSS, it should be easy enough to retain the layout or have it switch to a more mobile-friendly alternative below certain throughholds using media queries.
